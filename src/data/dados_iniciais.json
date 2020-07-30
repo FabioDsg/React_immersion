@@ -1,106 +1,106 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "A.I",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "A.I. Artificial Intelligence",
+        "url": "https://en.wikipedia.org/wiki/A.I._Artificial_Intelligence"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Love, art and stories: decoded | The Age of A.I.",
+          "url": "https://www.youtube.com/watch?v=Kr1fmKVY3cA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "The 'Space Architects' of Mars | The Age of A.I.",
+          "url": "https://youtu.be/lIvrIKaNCRE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Saving the world one algorithm at a time | The Age of A.I.",
+          "url": "https://youtu.be/0wy4u34fii4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "How A.I. is searching for Aliens | The Age of A.I.",
+          "url": "https://youtu.be/VwtC_4t2g5M"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "The Age of A.I. | Official Trailer",
+          "url": "https://youtu.be/5IvQ3fYKnfM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "A.I Agenda 2020 | Rise of the Machines - Super Intelligence Quantum Computers Documentary",
+          "url": "https://youtu.be/nvPDEK776qo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "This Robot would let 5 People die | AI on Moral Questions | Sophia answers the Trolley Problem",
+          "url": "https://youtu.be/8MjIU4eq__A"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "India Welcomes Robot Sophia For The First-Ever Interactive Session In Kolkata",
+          "url": "https://youtu.be/WATLfjRHySU"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "SpaceX",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Space Exploration Technologies Corp",
+        "url": "https://www.spacex.com/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Inside the Space Suit Lab",
+          "url": "https://youtu.be/4LMwKwcMdIg"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "SpaceX Mars Mission (1K Special)",
+          "url": "https://youtu.be/xx8A4jmz85c"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "ANASIS-II Mission",
+          "url": "https://youtu.be/ZAUEj4-q9ZI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "How to Land on a Droneship in Kerbal Space Program (EASY)",
+          "url": "https://youtu.be/Ca1nGHY5tSQ"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Starlink-5 (Kerbal Space Program Recreation)",
+          "url": "https://youtu.be/NKzNnK0cDIU"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "CERN",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "CERN, the European Organization for Nuclear Research, is one of the world's largest and most respected centres for scientific research.",
+        "url": "https://home.cern/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Standard Model survives stringent test of lepton universality at the ATLAS experiment",
+          "url": "https://youtu.be/JvHXn5xRH4I"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "CERN VR - Discover the LHC and CMS in 360",
+          "url": "https://youtu.be/NBrVCBCEVfk"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "WHERE DO THE PROTONS COME FROM?",
+          "url": "https://youtu.be/wX356bPXBOA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "CERN VR-LHC and Grid Computing",
+          "url": "https://youtu.be/3r80ylmOCys"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Movies",
       "cor": "orange",
       "videos": [
         {
@@ -112,12 +112,12 @@
           "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Arrival Trailer",
+          "url": "https://www.youtube.com/watch?v=tFMo3UJ4B4g"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Sci-Fi Short Film R'ha | DUST",
+          "url": "https://www.youtube.com/watch?v=Sgm_4WRcGRo"
         }
       ]
     },
@@ -125,59 +125,59 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Twitch TV",
+        "url": "https://www.twitch.tv/"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Cyberpunk 2077 — Official Trailer — The Gig",
+          "url": "https://youtu.be/ixl31324UxE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "PlanetSide 2 | Return to Glory | Official Gameplay Trailer",
+          "url": "https://youtu.be/w6e0OT5g3aI"
         },
         {
           "titulo": "God of War 4",
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "StarCraft II - 10th Anniversary Game Updates",
+          "url": "https://youtu.be/RTUBNoD1SDA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Microsoft Flight Simulator - Pre-Order Launch Trailer",
+          "url": "https://youtu.be/TYqJALPVn0Y"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Tecnology",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Quantum Computers",
+        "url": "https://computer.howstuffworks.com/quantum-computer.htm"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Introducing Quantum Impact (Ep. 0)",
+          "url": "https://youtu.be/ba88EwG5b0Q"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "The Hype Over Quantum Computers, Explained",
+          "url": "https://youtu.be/u1XXjWr5frE"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Demonstrating Quantum Supremacy",
+          "url": "https://youtu.be/-ZNEzzDcllU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Artificial atoms create stable qubits for quantum computing",
+          "url": "https://youtu.be/AENACf7UDB4"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Quantum Impact: Teaching the next generation of quantum (Ep. 2)",
+          "url": "https://youtu.be/xivcAE4GGWc"
         }
       ]
     }
